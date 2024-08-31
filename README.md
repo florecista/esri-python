@@ -1,4 +1,6 @@
-# Example of vehicle tracking using the Open Source Routing Machine and the ArcGIS Maps SDK for JavaScript
+# Example of vehicle tracking using ArcGIS Maps SDK for JavaScript
+
+Additionally to have some waypoints I am using the Open Source Routing Machine.
 
 ### Leaving Canberra Airport
 ![image](https://github.com/user-attachments/assets/fc4ea892-41c1-4728-97df-10e753569d3c)
