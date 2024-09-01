@@ -4,10 +4,10 @@ import json
 
 # Local variables
 vehicle_id = "985CC5EC1D3FC176E053DD4D1FAC4E39"
-source_long = 149.135440
-source_lat = -35.306250
-dest_long = 149.189423
-dest_lat = -35.308022
+source_long = 149.18918
+source_lat = -35.30768
+dest_long = 149.135383
+dest_lat = -35.306046
 
 # Prepare OSRM URL
 osrm_url = f"http://router.project-osrm.org/trip/v1/driving/{source_long},{source_lat};{dest_long},{dest_lat}?geometries=polyline"
